@@ -1,0 +1,6 @@
+out/
+.idea/
+MySimpleEmail.iml
+*.pdf
+*.zip
+logs/
